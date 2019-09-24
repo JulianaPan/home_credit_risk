@@ -104,4 +104,6 @@ venv.bak/
 .mypy_cache/
 
 # latex
-latex/
+latex/*
+!latex/*.sty
+!latex/*.tex
