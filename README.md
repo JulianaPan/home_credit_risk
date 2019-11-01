@@ -22,6 +22,7 @@
 - Random Forest (Benchmark,introduction)
 - LightGBM (introduction)
 - Tuning parameters: cross validation (3 fold) RandomizedsearchCV
+- Top-N important features
 - Evaluation: AUC, KS (2 x 2 Pictures, table)
 
 ### Conclusion
