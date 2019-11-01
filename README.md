@@ -19,7 +19,7 @@
 
 ### Modeling (model.ipynb)
 
-- Random Forest (Benchmark)
-- LightGBM
+- Random Forest (Benchmark,introduction)
+- LightGBM (introduction)
 - Tuning parameters: cross validation (3 fold) RandomizedsearchCV
-- Evaluation: AUC, KS (2 x 2 Pictures)
+- Evaluation: AUC, KS (2 x 2 Pictures, table)
