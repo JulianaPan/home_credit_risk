@@ -12,7 +12,7 @@
 - Feature Importance: using median to filter features 
 - Table of number of selected features.
 
-### Data Processing (becnhmark.ipynb)
+### Data Processing (model.ipynb)
 
 - fill in missing values: 0xdeadbeef
 - split dataset into training set and validation set (8:2)
